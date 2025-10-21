@@ -1,45 +1,42 @@
 # 👋 Hi, I'm Kyla Manalo
 
 🎓 **Associate in Computer Technology (ACT) Student**  
-🏫 **College of Computer Studies - CCA**
+🏫 **City College of Angeles**
 
 ---
 
 ## 💡 About Me
-Hi! I’m Kyla Manalo, a student at City College of Angeles, currently taking the course Associate in Computer Technology (ACT).
-My program focuses on developing skills in computer systems, programming, and information technology. Through this course, I’m learning how to design, build, and maintain software and computer applications.
+Hi! I’m **Kyla Manalo**, a student at **City College of Angeles**, currently taking the course **Associate in Computer Technology (ACT)**.  
+My program focuses on developing skills in **computer systems, programming, and information technology**. Through this course, I’m learning how to design, build, and maintain software and computer applications.  
 
-- 💻 Programming (Java, Python, and Web Development)
-- ⚙️ Object-Oriented Programming (OOP)
-- 🧩 Database Management and SQL
-
-
-I love combining creativity and logic — whether I’m designing user-friendly interfaces or solving challenging coding problems.
+I’m passionate about exploring different areas of technology — from **coding and web development** to **database management and system design**. My goal is to continue improving my technical skills and become a competent and creative IT professional in the future.
 
 ---
 
 ## 🚀 Projects
-Here are a few things I’m working on or have built:
+Here are some of the projects I’ve worked on during my studies:
 
-- 🧾 **Java Console Projects** – Practice programs using loops, arrays, and classes  
-- 🐍 **Python Mini Apps** – Small applications that automate simple tasks  
-- 🌍 **Portfolio Website** – A personal site showcasing my projects and skills  
+- 💻 **Midterm Paired Task 1**
+- 🧩 **Midterm Lab Task 1**
+- ⚙️ **Practice Task (Paired)**
+- 🔹 **Part 2**
+- 🔸 **Practice Task 2**
+- 🔹 **Practice Task 3**
 
-*(More coming soon!)*
+*(More projects will be added soon!)*
 
 ---
 
 ## 🛠️ Tech Stack
 **Languages:** Java, Python, JavaScript  
-**Tools:** Git, GitHub, Visual Studio Code, NetBeans, Figma  
-**Concepts:** OOP, Data Structures, Basic Networking
+**Tools:** Git, GitHub, Visual Studio Code, NetBeans  
+**Concepts:** OOP, Data Structures, Basic Networking, System Design
 
 ---
 
 ## 📫 Contact Me
 - 📧 **Email:** kylmanalosbnhs23@gmail.com  
-- 💼 **GitHub:** [github.com/yourusername](https://github.com/yourusername)  
-- 🌟 Open to collaborations, learning opportunities, and tech discussions!
+- 💼 **GitHub:** [github.com/yourusername](https://github.com/yourusername)
 
 ---
 
