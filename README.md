@@ -24,7 +24,7 @@ My goal is to grow into a **competent and creative IT professional**.
 - [🧩 Midterm Lab Task 1]https://docs.google.com/document/d/13BNNWj5jHearWJ9Aojjon5mvnoQrpfRKDWdX_wi9goI/edit?usp=sharing
 - [⚙️ Practice Task (Paired) - Part 2](https://docs.google.com/document/d/1qb3XTxUp4_lQCAm8yno2HpFis6ZZfuHY4_PBGvQ93BY/edit?usp=sharing
 - [🔸 Practice Task 2](https://docs.google.com/document/d/1q-XG5Y0TQ60uCarmwL9XIjsTUEjEMvL0fIvB55ag6ok/edit?usp=drivesdk)
-- [🔹 Practice Task 3](https://docs.google.com/document/d/1gdsLU7C4GwpgimKOJBqb3OBwb3Gm2pPyVwsp-Nuv264/edit?usp=drivesdk)
+- [🔹 Practice Task 3](https://docs.google.com/document/d/1dzPPBW4_7Law-oG0IRPkSIpbTX22-9lan4a0vC0q7KA/edit?usp=sharing
 
 *(More projects coming soon.)*
 
