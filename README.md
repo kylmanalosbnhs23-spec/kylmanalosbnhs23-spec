@@ -1,3 +1,5 @@
+<img src="dare-aggie-dare-aggie-bunny.gif" alt="Cute GIF" width="500"/>
+
 
 
 <header>
